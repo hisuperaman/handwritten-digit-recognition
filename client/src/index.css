@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.sigCanvas {
+  border: 2px solid #ffffff;
+  border-radius: 8px;
+  background-color: #212121;
+}
+
+@theme {
+  --color-background: #212121;
+}
